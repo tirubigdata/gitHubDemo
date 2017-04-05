@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 064F-0796
+
+ Directory of C:\Users\SaiKarunya\Desktop\myProject
+
+04/04/2017  10:50 PM    <DIR>          .
+04/04/2017  10:50 PM    <DIR>          ..
+04/04/2017  10:50 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  315,336,622,080 bytes free
